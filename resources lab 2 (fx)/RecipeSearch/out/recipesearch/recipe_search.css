@@ -1,0 +1,46 @@
+
+.text-area{
+    -fx-font-size: 14px;
+    -fx-text-field: #000000;
+  /*  -fx-background-radius: 20 20 20 20;*/
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8),10,0,0,0);
+}
+
+.pane-background {
+    -fx-background-color: -fx-background;
+}
+
+#pane1{
+    -fx-background-color: #F90;
+}
+
+#pane2{
+    -fx-background-color: #090; /* #090 = grön */
+}
+
+#pane3{
+    -fx-background-color: #07F;
+}
+
+#pane10{
+    -fx-background-image: url("http://macrophotoz.com/wp-content/uploads/2014/06/Red-Fresh-Cherries-Isolated-on-White-Background-600x400.jpg");
+}
+
+#pane11{
+    -fx-background-image: url("http://keeppy.com/attachment?id=b9bf90f6c92facc5");
+}
+
+#paneSearchView{
+    -fx-background-image: url("https://cdn2.cdnme.se/3956893/9-3/test2_56b48287ddf2b36892ed41f3.jpg");
+}
+
+#paneListView{
+    -fx-background-image: url("https://cdn2.cdnme.se/3956893/9-3/test234568_56ba1caaddf2b32ef2cd5116.jpg");
+}
+
+#paneDetailedView{
+    -fx-background-image: url("https://cdn2.cdnme.se/3956893/9-3/woodenboard1_56ba1e31ddf2b32ec8c23262.jpg");
+}
+
+
+
